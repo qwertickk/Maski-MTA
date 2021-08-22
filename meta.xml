@@ -1,0 +1,18 @@
+<meta>
+    <script src="s_shopMask.lua" type="server" />
+    <script src="s_mask.lua" type="server" />
+    
+    <script src="c_shopMask.lua" type="client" cache="false" />
+    <script src="c_mask.lua" type="client" cache="false" />
+    <script src="c_replace.lua" type="client" cache="false" />
+
+    <file src="files/models/hockeymask.txd" />
+
+    <file src="files/models/hockeymask.dff" />
+    <file src="files/models/hockeymask2.dff" />
+    <file src="files/models/hockeymask3.dff" />
+
+    <file src="files/images/hockeymask.png" />
+    <file src="files/images/hockeymask2.png" />
+    <file src="files/images/hockeymask3.png" />
+</meta>
