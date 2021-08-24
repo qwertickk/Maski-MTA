@@ -6,7 +6,7 @@
 - 3 maski (jeden rodzaj, różne kolory)
 
 **WAŻNE**
-- Do działania skryptu potrzebny jest skrypt [bone_attach](https://community.multitheftauto.com/index.php?p=resources&s=details&id=2540)
+- Do działania skryptu potrzebny jest skrypt [bone_attach (kliknij)](https://community.multitheftauto.com/index.php?p=resources&s=details&id=2540)
 - Aby poprawnie działało zamień w elementDatach **"uid"** na swoje (**s_shopMask.lua**, **s_mask.lua**)
 - Połączenie z bazą danych musisz zmienić na swoje (**s_shopMask.lua**)
 - Zapytania do bazy danych musisz zmienić na swoją bazę
