@@ -1,4 +1,4 @@
-**Prezentacja:** https://youtu.be/GDcS4ONnqSg
+**Prezentacja:** [YouTube (kliknij)](https://youtu.be/GDcS4ONnqSg)
 
 **v1.0**
 - W skrypcie znajduje się sklep, w którym można zakupić maskę. Aktualnie można zakupić tylko jedną maskę na gracza, ale w przyszłości chcę rozbudować to do większej ilości, oraz różnych rodzajów masek
